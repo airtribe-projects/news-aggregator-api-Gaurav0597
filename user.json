@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Gaurav Petkar",
+      "email": "Gaurav@superman.com",
+      "password": "abcd12345",
+      "preferences": ["movies", "cricket"]
+    }
+  ]
+}
